@@ -18,8 +18,10 @@
   </teiHeader>
   <text>
     <body>
-      <div n="17">
-        <l n="1">Iliad text</l>
+      <div n="23">
+        <l n="782">ὢ πόποι~ ἦ μ' ἔβλαψε θεὰ πόδας ἣ τὸ πάρος περ</l>
+        <l n="783">μήτηρ ὣς. <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσῆι+</persName> παρίσταται ἢδ' ἐπαρήγει~</l>
+
       </div>
     </body>
   </text>
