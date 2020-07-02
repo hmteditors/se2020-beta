@@ -18,15 +18,15 @@
       <group n="23">
           <text n="e3">
               <body>
-                  <div n="e3_PAGE_SCHOLNUMBER" type="scholion">
+                  <div n="e3_311v_1" type="scholion">
                       <div n="lemma">
-                          <p><num>GREEK NUMBER</num></p>
+                          <p><num>α</num></p>
                       </div>
                       <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.ILIAD_LINE</p>
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.786@μεδιόων</p>
                       </div>
                       <div n="comment">
-                          <p>Scholiion text</p>
+                          <p>προλαμβάνων τὸν κατάγελων~ καὶ ὑπεκλύων τὸ φιλότιμον τῶν νικησάντων~ πάντας δὲ τοὺς διαφέροντας ἔν τινι, ἡττωμένους ὁ ποιητὴς ἔδειξε μὴ μέγα διδάσκων φρονεῖν ⁑</p>
                       </div>
                   </div>
               </body>
