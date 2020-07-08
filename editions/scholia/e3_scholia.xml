@@ -29,6 +29,19 @@
                           <p>προλαμβάνων τὸν κατάγελων~ καὶ ὑπεκλύων τὸ φιλότιμον τῶν νικησάντων~ πάντας δὲ τοὺς διαφέροντας ἔν τινι, ἡττωμένους ὁ ποιητὴς ἔδειξε μὴ μέγα διδάσκων φρονεῖν ⁑</p>
                       </div>
                   </div>
+                  <div n="e3_311v_2" type="scholion">
+                      <div n="lemma">
+                          <p><num>β</num></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.789@ἐμεῖ'</p>
+                      </div>
+                      <div n="comment">
+                          <p>καὶ τὰς ἡλικίας τῶν ἡρώων σημᾶναι ἠθέλησεν~ ἔστι γὰρ <persName n="urn:cite2:hmt:pers.v1:pers712">Ἀντίλοχος</persName> νέος~ μείζων <persName n= "urn:cite2:hmt:pers.v1:pers127">Αἴας</persName>~ εἶτα ὁ βουγάϊος~ εἶτα <persName n= "urn:cite2:hmt:pers.v1:pers118">Ὀδυσσεύς</persName>~ εἶτα <persName n="urn:cite2:hmt:pers.v1:pers287">Ἰδομενεύς</persName>~ εἶτα <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστωρ</persName> ⁑</p>
+                      </div>
+                  </div>
+
+
               </body>
           </text>
       </group>
