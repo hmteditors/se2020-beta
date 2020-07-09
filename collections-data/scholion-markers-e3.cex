@@ -1,3 +1,8 @@
 #!ctsdata
 urn#reading#image#scholion#text
-urn:cite2:hmt:e3markers.v1:311v_1#<num>α</num>#urn:cite2:hmt:e3bifolio.v1:E3_311v_312r@0.2033,0.2740,0.01301,0.01592#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_311v_1#urn:cts:greekLit:tlg0012.tlg001.e3:23.787@μειδιόων
+urn:cite2:hmt:e3markers.v1:311v_1#<num>α</num>#urn:cite2:hmt:e3bifolio.v1:E3_311v_312r@0.2033,0.2740,0.01301,0.01592#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_311v_1#urn:cts:greekLit:tlg0012.tlg001.e3:23.786@μειδιόων
+urn:cite2:hmt:e3markers.v1:311v_2#<num>β</num>#urn:cite2:hmt:e3bifolio.v1:E3_311v_312r@0.2664,0.3416,0.02211,0.02414#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_311v_2#urn:cts:greekLit:tlg0012.tlg001.e3:23.789@ἐμεῖ
+urn:cite2:hmt:e3markers.v1:311v_3#<num>γ</num>#urn:cite2:hmt:e3bifolio.v1:E3_311v_312r@0.1975,0.3793,0.01987,0.02450#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_311v_3#urn:cts:greekLit:tlg0012.tlg001.e3:23.791@ὠμογέροντα
+urn:cite2:hmt:e3markers.v1:311v_5#<num>ε</num>#urn:cite2:hmt:e3bifolio.v1:E3_311v_312r@0.2404,0.4714,0.02318,0.02146#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_311v_5#urn:cts:greekLit:tlg0012.tlg001.e3:23.795@μέν
+urn:cite2:hmt:e3markers.v1:311v_6#<num>Ϛ</num>#urn:cite2:hmt:e3bifolio.v1:E3_311v_312r@0.2117,0.6541,0.01656,0.02754#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_311v_6#urn:cts:greekLit:tlg0012.tlg001.e3:23.804@ἀλλήλων
+urn:cite2:hmt:e3markers.v1:311v_7#<num>ζ</num>#urn:cite2:hmt:e3bifolio.v1:E3_311v_312r@0.3089,0.6876,0.01809,0.01949#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_311v_7#urn:cts:greekLit:tlg0012.tlg001.e3:23.805@ὀρεξάμενος

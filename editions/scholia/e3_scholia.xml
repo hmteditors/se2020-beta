@@ -40,8 +40,72 @@
                           <p>καὶ τὰς ἡλικίας τῶν ἡρώων σημᾶναι ἠθέλησεν~ ἔστι γὰρ <persName n="urn:cite2:hmt:pers.v1:pers712">Ἀντίλοχος</persName> νέος~ μείζων <persName n= "urn:cite2:hmt:pers.v1:pers127">Αἴας</persName>~ εἶτα ὁ βουγάϊος~ εἶτα <persName n= "urn:cite2:hmt:pers.v1:pers118">Ὀδυσσεύς</persName>~ εἶτα <persName n="urn:cite2:hmt:pers.v1:pers287">Ἰδομενεύς</persName>~ εἶτα <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστωρ</persName> ⁑</p>
                       </div>
                   </div>
-
-
+                  <div n="e3_311v_3" type="scholion">
+                      <div n="lemma">
+                          <p><num>γ</num></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.791@ὠμογέροντα</p>
+                      </div>
+                      <div n="comment">
+                          <p>τὸν μὴ τέλεον ὑπὸ τοῦ γήρως καθηψημένον δηλοῖ~ ἡ δὲ μεταφορὰ ἀπὸ τῶν κρεῶν τῶν ἐψηθέντων μὲν, οὐ μὴν τελείως ⁑</p>
+                      </div>
+                  </div>
+                  <div n="e3_311v_4" type="scholion">
+                      <div n="lemma">
+                          <p><gap></gap></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.793@κύδῃνεν</p>
+                      </div>
+                      <div n="comment">
+                          <p>γαῦρον ἐποίησε καὶ ὕψωσε διὰ τοῦ ἐπαίνου ⁑</p>
+                      </div>
+                  </div>
+                  <div n="e3_311v_5" type="scholion">
+                      <div n="lemma">
+                          <p><gap></gap></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.795@μέν</p>
+                      </div>
+                      <div n="comment">
+                          <p> ὅσον ἐπιδέξιος ὁμιλία δύναται, ἐδήλωσε δι' <persName n="urn:cite2:hmt:pers.v1:pers712">Ἀντιλόχου</persName> ⁑</p>
+                      </div>
+                  </div>
+                  <div n="e3_311v_6" type="scholion">
+                      <div n="lemma">
+                          <p><gap></gap></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.804@ἀλλήλων</p>
+                      </div>
+                      <div n="comment">
+                          <p> ἔοικε σκιομαχία τις εἶναι. οὐ γὰρ ἔχει τρώσεις~ <choice><abbr>φη</abbr><expan>φησὶ</expan></choice> γάρ~ <q>καί σφιν δαῖτ' ἀγαθὴν παραθήσομαι</q>~ τάχα οὖν ὁ εὐθυνθεὶς εἰς τὸ τρῶσαι τὸν πλησίον εὐκόλως. οὐ τρώσας δὲ διὰ τὸ ὁμογενὲς. ἐκεῖνος νικᾷ ⁑</p>
+                      </div>
+                  </div>
+                  <div n="e3_311v_7" type="scholion">
+                      <div n="lemma">
+                          <p><num>ζ</num></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.805@ὀρεξάμενος</p>
+                      </div>
+                      <div n="comment">
+                          <p> ἀντὶ τοῦ πατάξας ἐκ παρεπομένου· συμβαίνει γὰρ τοῖς πατάσσουσιν ἐκτείνεσθαι ⁑</p>
+                      </div>
+                  </div>
+                  <div n="e3_311v_8" type="scholion">
+                      <div n="lemma">
+                          <p><gap></gap></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.806@ἐνδίνων</p>
+                      </div>
+                      <div n="comment">
+                          <p>ἐνδίνων τῶν ἔνδον τοῦ χρωτὸς~ οἱ δὲ τῶν ἐντὸς ὅπλων ἀπὸ τοῦ ἔνδον ⁑</p>
+                      </div>
+                  </div>
               </body>
           </text>
       </group>
